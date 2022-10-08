@@ -22,7 +22,7 @@ This will output `results.txt` which contains a list of missed tags as well as a
 
 ### POS Tagging
 
-Part of speech tagging (also known as grammatical tagging) assigns grammatical tags to a sequence of words and punctuation symbols. It is used as a tool in Natural Language Processing, helping meaning to be discerned when a word has multiple possible meanings. This program and the following examples use the tags present in the [British National Corpus](http://www.natcorp.ox.ac.uk/docs/URG.xml).
+Part of speech tagging (also known as grammatical tagging) assigns grammatical tags to a sequence of words and punctuation symbols. It is used as a tool in Natural Language Processing, helping meaning to be discerned when a word has multiple possible meanings. This program and the following examples use the tags present in the [ICON 2016 Multilingual Dataset](http://www.amitavadas.com/Code-Mixing.html).
 
 &nbsp;
 
