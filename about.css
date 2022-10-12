@@ -1,0 +1,21 @@
+.navbar{
+    position: absolute;
+    width: 1512px;
+    height: 90px;
+    left: 0px;
+    top: 0px;  
+    background: linear-gradient(180deg, #6C3FEF 0%, rgba(179, 153, 255, 0.64) 100%);    
+}
+.navbar-nav{
+    position: absolute;
+    height: 26px;
+    width: 69px;
+    top: 62px;
+    left: 1000px;    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;   
+    color: #020f50;    
+}

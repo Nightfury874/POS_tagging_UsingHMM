@@ -1,0 +1,126 @@
+.navbar{
+    position: absolute;
+    width: 1512px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(180deg, #6C3FEF 0%, rgba(179, 153, 255, 0.64) 100%);    
+}
+.navbar-nav{
+    position: absolute;
+    height: 26px;
+    width: 69px;
+    top: 62px;
+    left: 1000px;  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;    
+    color: #020f50;    
+}
+.header{
+    position: absolute;
+    width: 532px;
+    height: 98px;
+    left: 80px;
+    top: 180px;    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 70px;   
+    color: #FF9933;    
+}
+input[type="radio"]{
+    margin: 15px 0px;
+}
+.text-area::placeholder{
+    position: absolute;
+    font-style: italic;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;    
+    color: #ADA3A3;
+}
+.select-lang{
+    position: absolute;
+    width: 170px;
+    height: 22px;
+    left: 131px;
+    top: 280px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;    
+}
+.text-area{
+    position: absolute;
+    width: 688px;
+    height: 418px;
+    left: 763px;
+    top: 180px;
+    background: #F1EDED;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
+}
+.submit-btn{
+    position: absolute;
+    width: 232px;
+    height: 57px;
+    left: 763px;
+    top: 692px;    
+    background: #FF9933;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px;
+}
+.submit-btn:hover{
+    background-color: #fb830b;
+}
+.acc-check{
+    position: absolute;
+    width: 232px;
+    height: 57px;
+    left: 1219px;
+    top: 692px;    
+    background: #6C3FEF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;   
+    color: #FFFFFF;
+}
+.acc-check:hover{
+    background-color: #3f05ef;
+}
+.file-up{
+    position: absolute;
+    width: 232px;
+    height: 44px;
+    left: 980px;
+    top: 808px; 
+    background: #6C3FEF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;   
+    color: #FFFFFF;
+}
+.file-up:hover{
+    background-color: #3f05ef;
+}
